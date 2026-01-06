@@ -1,1 +1,2 @@
 # Customer-dashboard-tableau
+This Tableau dashboard provides an interactive view of customer support ticket operations, helping teams monitor ticket volumes, response engagement, and satisfaction trends. It highlights key metrics such as total tickets, open vs resolved counts, engagement and satisfaction levels, and performance by owner group or issue category. With interactive filters and detailed tables, users can explore how ticket status, severity, and open days impact overall service quality.
